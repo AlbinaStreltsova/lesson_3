@@ -1,0 +1,61 @@
+@import "null.css";
+
+header > h1{
+	color: red;
+}
+
+ol.books + h2{
+	color: chartreuse;
+}
+
+h2 {
+	color: darkgoldenrod;
+}
+
+[class*="li_"] {
+	color: darkmagenta;
+}
+
+.paragraph {
+	color: greenyellow;
+}
+
+.books {
+	color: darkblue;
+}
+
+p {
+	color: yellow;
+}
+
+#section_4 ~ p {
+	color: blueviolet;
+}
+
+p#link {
+	color: blue;
+}
+
+#link a {
+	color: cornflowerblue;
+}
+
+footer {
+	color: cadetblue;
+}
+
+#section_0 {
+	color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
